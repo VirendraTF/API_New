@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://sample-web-service-aut.herokuapp.com'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>200</initValue>
+      <name>successCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>globalId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>for API Chaining</description>
+      <initValue>'Hary'</initValue>
+      <name>userName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://reqres.in'</initValue>
+      <name>reqresURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>local_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>numbers 1 to 25</description>
+      <initValue>findTestData('TDD_Exl/ID_Numbers')</initValue>
+      <name>UserId_var</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>name_env</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>email_env</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>for API CrudCrud chaining</description>
+      <initValue>''</initValue>
+      <name>id_crud</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

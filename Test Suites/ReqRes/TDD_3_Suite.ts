@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TDD_3_Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a36fd150-e1ed-442d-9fe0-36c28dd7f903</testSuiteGuid>
+   <testCaseLink>
+      <guid>ed33c1cb-5368-41e6-b653-a4caecf4c207</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'Raju'</defaultValue>
+         <description></description>
+         <id>ea524cf2-3db2-480b-acf4-c8c5f2f8c4c0</id>
+         <masked>false</masked>
+         <name>userNm2</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/ReqRes_TDD/TDD_3_TC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d1671469-2d2a-4bda-b18e-34b9ffa8e790</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TDD_Exl/TDD_3</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d1671469-2d2a-4bda-b18e-34b9ffa8e790</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserXL</value>
+         <variableId>ea524cf2-3db2-480b-acf4-c8c5f2f8c4c0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

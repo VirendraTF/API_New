@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetUser_TDD_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30fb40ad-a996-456c-8a45-3169ab1b4d58</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>03cce7f5-f20a-4886-8bf8-32191275b8a9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>03cce7f5-f20a-4886-8bf8-32191275b8a9</id>
+      <masked>false</masked>
+      <name>EndId_TC</name>
+   </variable>
+</TestCaseEntity>

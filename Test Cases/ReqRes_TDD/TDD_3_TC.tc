@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TDD_3_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2eb98147-1efd-4e4c-baea-1304681227c8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea524cf2-3db2-480b-acf4-c8c5f2f8c4c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Raju'</defaultValue>
+      <description></description>
+      <id>ea524cf2-3db2-480b-acf4-c8c5f2f8c4c0</id>
+      <masked>false</masked>
+      <name>userNm2</name>
+   </variable>
+</TestCaseEntity>

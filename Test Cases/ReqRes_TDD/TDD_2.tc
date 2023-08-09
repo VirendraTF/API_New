@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TDD_2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20cc1a27-3955-439e-99ae-b0151935d34a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c76305f8-4c78-4a57-b4a2-4eb83f644324</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Raghav'</defaultValue>
+      <description></description>
+      <id>c76305f8-4c78-4a57-b4a2-4eb83f644324</id>
+      <masked>false</masked>
+      <name>userNm1</name>
+   </variable>
+</TestCaseEntity>
